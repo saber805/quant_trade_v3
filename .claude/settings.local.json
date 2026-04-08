@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(conda env:*)",
+      "Bash(D:/anaconda/install_here/envs/quant/python.exe:*)",
+      "Bash(/d/anaconda/install_here/envs/quant/python.exe:*)",
+      "Bash(source:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(conda install:*)",
+      "Bash(conda activate:*)",
+      "Bash(where conda:*)",
+      "Bash(wc:*)",
+      "Bash(python3:*)"
+    ]
+  }
+}
