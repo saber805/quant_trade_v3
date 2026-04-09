@@ -528,6 +528,9 @@ BarEvent                    SignalEvent                 OrderEvent              
 ## 快速开始
 
 ```bash
+# 下载数据
+pyhton data_collector/run.py
+
 # 运行 Regime-Based 策略（主策略）
 python run_regime.py
 
